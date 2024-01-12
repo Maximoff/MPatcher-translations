@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="open_titles">
+		<item>از فایل</item>
+		<item>جدید</item>
+	</string-array>
+	<string-array name="open_startup">
+		<item>@string/all_scripts</item>
+		<item>@string/favorites</item>
+	</string-array>
+	<string-array name="sort_titles">
+		<item>بر اساس نام (صعودی)</item>
+		<item>بر اساس نام (نزولی)</item>
+		<item>بر اساس تاریخ (صعودی)</item>
+		<item>بر اساس (نزولی)</item>
+	</string-array>
+	<string-array name="themes_titles">
+		<item>روشن</item>
+		<item>تاریک</item>
+		<item>سیاه</item>
+	</string-array>
+	<string-array name="shortcut_titles">
+		<item>گفتگو</item>
+		<item>اعلان</item>
+		<item>پیام تست</item>
+	</string-array>
+	<string-array name="item_options">
+		<item>اجرا</item>
+		<item>اعمال به فایل/پوشه</item>
+		<item>ویرایش</item>
+		<item>شرح</item>
+		<item>صادر کردن</item>
+		<item>موارد دلخواه</item>
+		<item>حذف</item>
+		<item>ایجاد میانبر</item>
+		<item>بازنشانی</item>
+	</string-array>
+	<string-array name="google_translator_codes">
+		<item>af</item>
+		<item>sq</item>
+		<item>am</item>
+		<item>ar</item>
+		<item>hy</item>
+		<item>az</item>
+		<item>eu</item>
+		<item>be</item>
+		<item>bn</item>
+		<item>bs</item>
+		<item>bg</item>
+		<item>ca</item>
+		<item>ceb</item>
+		<item>ny</item>
+		<item>zh-cn</item>
+		<item>zh-tw</item>
+		<item>co</item>
+		<item>hr</item>
+		<item>cs</item>
+		<item>da</item>
+		<item>nl</item>
+		<item>en</item>
+		<item>eo</item>
+		<item>et</item>
+		<item>tl</item>
+		<item>fi</item>
+		<item>fr</item>
+		<item>fy</item>
+		<item>gl</item>
+		<item>ka</item>
+		<item>de</item>
+		<item>el</item>
+		<item>gu</item>
+		<item>ht</item>
+		<item>ha</item>
+		<item>haw</item>
+		<item>iw</item>
+		<item>hi</item>
+		<item>hmn</item>
+		<item>hu</item>
+		<item>is</item>
+		<item>ig</item>
+		<item>id</item>
+		<item>ga</item>
+		<item>it</item>
+		<item>ja</item>
+		<item>jw</item>
+		<item>kn</item>
+		<item>kk</item>
+		<item>km</item>
+		<item>ko</item>
+		<item>ku</item>
+		<item>ky</item>
+		<item>lo</item>
+		<item>la</item>
+		<item>lv</item>
+		<item>lt</item>
+		<item>lb</item>
+		<item>mk</item>
+		<item>mg</item>
+		<item>ms</item>
+		<item>ml</item>
+		<item>mt</item>
+		<item>mi</item>
+		<item>mr</item>
+		<item>mn</item>
+		<item>my</item>
+		<item>ne</item>
+		<item>no</item>
+		<item>ps</item>
+		<item>fa</item>
+		<item>pl</item>
+		<item>pt</item>
+		<item>ma</item>
+		<item>ro</item>
+		<item>ru</item>
+		<item>sm</item>
+		<item>gd</item>
+		<item>sr</item>
+		<item>st</item>
+		<item>sn</item>
+		<item>sd</item>
+		<item>si</item>
+		<item>sk</item>
+		<item>sl</item>
+		<item>so</item>
+		<item>es</item>
+		<item>su</item>
+		<item>sw</item>
+		<item>sv</item>
+		<item>tg</item>
+		<item>ta</item>
+		<item>te</item>
+		<item>th</item>
+		<item>tr</item>
+		<item>uk</item>
+		<item>ur</item>
+		<item>uz</item>
+		<item>vi</item>
+		<item>cy</item>
+		<item>xh</item>
+		<item>yi</item>
+		<item>yo</item>
+		<item>zu</item>
+		<item>or</item>
+		<item>pa</item>
+		<item>rw</item>
+		<item>tt</item>
+		<item>tk</item>
+		<item>ug</item>
+	</string-array>
+	<string-array name="google_translator_names">
+		<item>آفریقایی</item>
+		<item>آلبانیایی</item>
+		<item>آمهری</item>
+		<item>عربی</item>
+		<item>ارمنی</item>
+		<item>آذربایجانی</item>
+		<item>باسکی</item>
+		<item>بلاروسی</item>
+		<item>بنگالی</item>
+		<item>بوسنیایی</item>
+		<item>بلغاری</item>
+		<item>کاتالان</item>
+		<item>سبوانو</item>
+		<item>چچنی</item>
+		<item>چینی ساده شده</item>
+		<item>وینی سنتی</item>
+		<item>کورسی</item>
+		<item>کروات</item>
+		<item>چک</item>
+		<item>دانمارکی</item>
+		<item>هلندی</item>
+		<item>انگلیسی</item>
+		<item>اسپرانتو</item>
+		<item>استونیایی</item>
+		<item>فیلیپینی</item>
+		<item>فنلاندی</item>
+		<item>فرانسوی</item>
+		<item>فریزی</item>
+		<item>گالیسیایی</item>
+		<item>گرجی</item>
+		<item>آلمانی</item>
+		<item>یونانی</item>
+		<item>گجراتی</item>
+		<item>Haitian Creole</item>
+		<item>هاوسا</item>
+		<item>هاوایی</item>
+		<item>عبری</item>
+		<item>هندی</item>
+		<item>Hmong</item>
+		<item>مجارستانی</item>
+		<item>ایسلندی</item>
+		<item>ایگبو</item>
+		<item>اندونزیایی</item>
+		<item>ایرلندی</item>
+		<item>ایتالیایی</item>
+		<item>ژاپنی</item>
+		<item>جاوه ای</item>
+		<item>کانادا</item>
+		<item>قزاقی</item>
+		<item>خمری</item>
+		<item>کره ای</item>
+		<item>کردی (کرمانجی)</item>
+		<item>قرقیزی</item>
+		<item>لائوس</item>
+		<item>لاتین</item>
+		<item>لتونی</item>
+		<item>لیتوانیایی</item>
+		<item>لوگزامبورگی</item>
+		<item>مقدونی</item>
+		<item>مالاگاسی</item>
+		<item>مالایی</item>
+		<item>مالایایی</item>
+		<item>مالتی</item>
+		<item>مائوری</item>
+		<item>مراتی</item>
+		<item>مغولی</item>
+		<item>میانمار (برمه)</item>
+		<item>نپالی</item>
+		<item>نروژی</item>
+		<item>پشتو</item>
+		<item>فارسی</item>
+		<item>Polish</item>
+		<item>پرتغالی</item>
+		<item>پنجابی</item>
+		<item>رومانیایی</item>
+		<item>روسی</item>
+		<item>ساموآ</item>
+		<item>گیلیک اسکاتلندی</item>
+		<item>صربی</item>
+		<item>سسوتو</item>
+		<item>شونا</item>
+		<item>سندی</item>
+		<item>سینهالی</item>
+		<item>اسلواکی</item>
+		<item>اسلوونیایی</item>
+		<item>سومالی</item>
+		<item>اسپانیایی</item>
+		<item>ساندانی</item>
+		<item>سواحیلی</item>
+		<item>سوئدی</item>
+		<item>تاجیکی</item>
+		<item>تامیلی</item>
+		<item>تلوگو</item>
+		<item>تایلندی</item>
+		<item>ترکی</item>
+		<item>اکراینی</item>
+		<item>اردو</item>
+		<item>ازبکی</item>
+		<item>پیتنامی</item>
+		<item>ولز</item>
+		<item>خوسا</item>
+		<item>ییدیش</item>
+		<item>یوروبا</item>
+		<item>زولو</item>
+		<item>اوریا</item>
+		<item>پنجابی</item>
+		<item>رواندا</item>
+		<item>تاتاری</item>
+		<item>ترکمنی</item>
+		<item>اویغوری</item>
+	</string-array>
+</resources>

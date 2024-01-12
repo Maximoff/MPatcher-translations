@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<plurals name="imprt_multi">
+        <item quantity="other">Импортировать %d скриптов?</item>
+		<item quantity="few">Импортировать %d скрипта?</item>
+        <item quantity="one">Импортировать %d скрипт?</item>
+    </plurals>
+    <plurals name="delete_multi">
+        <item quantity="other">Удалить %d скриптов?</item>
+		<item quantity="few">Удалить %d скрипта?</item>
+        <item quantity="one">Удалить %d скрипт?</item>
+    </plurals>
+</resources>

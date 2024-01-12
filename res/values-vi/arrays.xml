@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="open_titles">
+		<item>Nhập tệp tin</item>
+		<item>Tạo mới</item>
+	</string-array>
+	<string-array name="item_options">
+		<item>Chạy</item>
+		<item>Áp dụng cho tệp, thư mục</item>
+		<item>Sửa</item>
+		<item>Miêu tả lệnh</item>
+		<item>Xuất file</item>
+		<item>Xoá</item>
+	</string-array>
+</resources>
