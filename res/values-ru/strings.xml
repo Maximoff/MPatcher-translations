@@ -140,4 +140,11 @@
 	<string name="yes">Да</string>
 	<string name="language">Язык</string>
 	<string name="language_summ">Выберите язык приложения</string>
+	<string name="backup_bin">Бэкап бинарников</string>
+	<string name="backup_bin_summary">Бэкап пользовательских бинарных файлов</string>
+	<string name="backup_bin_msg">Установленные бинарные файлы будут сохранены в архив, в папку \"MPatcher\" во внутренней памяти. Продолжить?</string>
+	<string name="backup_scr">Бэкап скриптов</string>
+	<string name="backup_scr_summary">Бэкап пользовательских скриптов</string>
+	<string name="backup_scr_msg">Скрипты будут экспортированы в папку \"MPatcher\" во внутренней памяти. Продолжить?</string>
+	<string name="include_build">Включить встроенные</string>
 </resources>

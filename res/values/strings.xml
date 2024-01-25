@@ -143,4 +143,11 @@
 	<string name="yes">Yes</string>
 	<string name="language_summ">Select application language</string>
 	<string name="language">Language</string>
+	<string name="backup_bin">Backup binaries</string>
+	<string name="backup_bin_summary">Backup of custom binaries</string>
+	<string name="backup_bin_msg">The installed binary files will be saved in an archive, in the \"MPatcher\" folder in the internal memory. Continue?</string>
+	<string name="backup_scr">Backup scripts</string>
+	<string name="backup_scr_summary">Backup of user scripts</string>
+	<string name="backup_scr_msg">The scripts will be exported to the \"MPatcher\" folder in the internal memory. Continue?</string>
+	<string name="include_build">Include built-in</string>
 </resources>
