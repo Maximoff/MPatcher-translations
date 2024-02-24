@@ -2,17 +2,17 @@
 <resources>
 	<string-array name="open_titles">
 		<item>از فایل</item>
-		<item>جدید</item>
+		<item>اسکریپت جدید</item>
 	</string-array>
 	<string-array name="open_startup">
 		<item>@string/all_scripts</item>
 		<item>@string/favorites</item>
 	</string-array>
 	<string-array name="sort_titles">
-		<item>بر اساس نام (صعودی)</item>
-		<item>بر اساس نام (نزولی)</item>
-		<item>بر اساس تاریخ (صعودی)</item>
-		<item>بر اساس (نزولی)</item>
+		<item>نام (↑)</item>
+		<item>نام (↓)</item>
+		<item>تاریخ (↑)</item>
+		<item>تاریخ (↓)</item>
 	</string-array>
 	<string-array name="themes_titles">
 		<item>روشن</item>
@@ -28,8 +28,8 @@
 		<item>اجرا</item>
 		<item>اعمال به فایل/پوشه</item>
 		<item>ویرایش</item>
-		<item>شرح</item>
-		<item>صادر کردن</item>
+		<item>توضیحات</item>
+		<item>استخراج</item>
 		<item>موارد دلخواه</item>
 		<item>حذف</item>
 		<item>ایجاد میانبر</item>

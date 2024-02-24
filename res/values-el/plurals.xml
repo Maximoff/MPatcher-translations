@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<plurals name="delete_multi">
+		<item quantity="other">Διαγραφή %d σεναρίων;</item>
+		<item quantity="one">Διαγραφή %d σεναρίου?</item>
+	</plurals>
+	<plurals name="imprt_multi">
+		<item quantity="other">Εισαγωγή %d σεναρίων;</item>
+		<item quantity="one">Εισαγωγή %d σεναρίου?</item>
+	</plurals>
+</resources>
