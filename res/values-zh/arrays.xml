@@ -18,7 +18,7 @@
 	<string-array name="shortcut_titles">
 		<item>对话框</item>
 		<item>通知</item>
-		<item>Toast</item>
+		<item>提示</item>
 	</string-array>
 	<string-array name="item_options">
 		<item>运行</item>
