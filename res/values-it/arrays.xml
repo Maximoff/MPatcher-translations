@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="sort_titles">
-	        	<item>Ordina per nome (ascendente)</item>
-	        	<item>Ordina per nome (discendente)</item>
-	        	<item>Ordina per data (ascendente)</item>
-		        <item>Ordina per data (discendente)</item>
-	  </string-array>
+            <item>Ordina per nome (ascendente)</item>
+	    <item>Ordina per nome (discendente)</item>
+	    <item>Ordina per data (ascendente)</item>
+	    <item>Ordina per data (discendente)</item>
+    </string-array>
     <string-array name="themes_titles">
-		        <item>Chiaro</item>
-		        <item>Scuro</item>
-		        <item>Nero</item>
-	  </string-array>
+	    <item>Chiaro</item>
+	    <item>Scuro</item>
+	    <item>Nero</item>
+    </string-array>
     <string-array name="shortcut_titles">
             <item>Dialogo</item>
             <item>Notifica</item>
             <item>Toast</item>
     </string-array>
     <string-array name="item_options">
-		        <item>Esegui</item>
-		        <item>Applica a file/cartella</item>
-		        <item>Modifica</item>
-		        <item>Descrizione</item>
-		        <item>Esporta</item>
-		        <item>Preferiti</item>
-		        <item>Elimina</item>
-		        <item>Crea scorciatoia</item>
-		        <item>Ripristina</item>
-	  </string-array>
+	    <item>Esegui</item>
+	    <item>Applica a file/cartella</item>
+	    <item>Modifica</item>
+	    <item>Descrizione</item>
+	    <item>Esporta</item>
+	    <item>Preferiti</item>
+	    <item>Elimina</item>
+	    <item>Crea scorciatoia</item>
+	    <item>Ripristina</item>
+    </string-array>
     <string-array name="google_translator_names">
             <item>Africano</item>
             <item>Albanese</item>
