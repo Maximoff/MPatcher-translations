@@ -1,141 +1,142 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="sort_titles">
-            <item>Ordina per nome (ascendente)</item>
-	    <item>Ordina per nome (discendente)</item>
-	    <item>Ordina per data (ascendente)</item>
-	    <item>Ordina per data (discendente)</item>
-    </string-array>
-    <string-array name="themes_titles">
-	    <item>Chiaro</item>
-	    <item>Scuro</item>
-	    <item>Nero</item>
-    </string-array>
-    <string-array name="shortcut_titles">
-            <item>Dialogo</item>
-            <item>Notifica</item>
-            <item>Toast</item>
-    </string-array>
-    <string-array name="item_options">
-	    <item>Esegui</item>
-	    <item>Applica a file/cartella</item>
-	    <item>Modifica</item>
-	    <item>Descrizione</item>
-	    <item>Esporta</item>
-	    <item>Preferiti</item>
-	    <item>Elimina</item>
-	    <item>Crea scorciatoia</item>
-	    <item>Ripristina</item>
-    </string-array>
-    <string-array name="google_translator_names">
-            <item>Africano</item>
-            <item>Albanese</item>
-            <item>Amarico</item>
-            <item>Arabo</item>
-            <item>Armeno</item>
-            <item>Azerbaigiano</item>
-            <item>Basco</item>
-            <item>Bielorusso</item>
-            <item>Bengali</item>
-            <item>Bosniaco</item>
-            <item>Bulgaro</item>
-            <item>Catalano</item>
-            <item>Cebuano</item>
-            <item>Chichewa</item>
-            <item>Cinese semplificato</item>
-            <item>Cinese tradizionale</item>
-            <item>Corso</item>
-            <item>Croato</item>
-            <item>Ceco</item>
-            <item>Danese</item>
-            <item>Olandese</item>
-            <item>Ingelese</item>
-            <item>Esperanto</item>
-            <item>Estone</item>
-            <item>Filippino</item>
-            <item>Finlandese</item>
-            <item>Francese</item>
-            <item>Frisoni</item>
-            <item>Galiziano</item>
-            <item>Georgiano</item>
-            <item>Tedesco</item>
-            <item>Greco</item>
-            <item>Gugiarati</item>
-            <item>Creolo Haitiano</item>
-            <item>Hausa</item>
-            <item>Hawaiano</item>
-            <item>Ebreo</item>
-            <item>Hindi</item>
-            <item>Hmong</item>
-            <item>Ungherese</item>
-            <item>Islandese</item>
-            <item>Igbo</item>
-            <item>Indonesiano</item>
-            <item>Irlandese</item>
-            <item>Italiano</item>
-            <item>Giapponese</item>
-            <item>giavanese</item>
-            <item>Canarese</item>
-            <item>Kazako</item>
-            <item>Cambogiano</item>
-            <item>Coreano</item>
-            <item>Curdo (Kurmanji)</item>
-            <item>Kirghiso</item>
-            <item>Laotiano</item>
-            <item>Latino</item>
-            <item>Lettone</item>
-            <item>Lituano</item>
-            <item>Lussemburghese</item>
-            <item>Macedone</item>
-            <item>Malgascia</item>
-            <item>Malese</item>
-            <item>Malayalam</item>
-            <item>Maltese</item>
-            <item>Maori</item>
-            <item>Maratino</item>
-            <item>Mongolo</item>
-            <item>Birmano (Burmese)</item>
-            <item>Nepalese</item>
-            <item>Norvegese</item>
-            <item>Afgano</item>
-            <item>Persiano</item>
-            <item>Polacco</item>
-            <item>Portoghese</item>
-            <item>Pangiabi</item>
-            <item>Rumeno</item>
-            <item>Russo</item>
-            <item>Samoana</item>
-            <item>Gaelico Ccozzese</item>
-            <item>Serbo</item>
-            <item>Sesotho</item>
-            <item>Shona</item>
-            <item>Sindhi</item>
-            <item>Singalese</item>
-            <item>Slovacco</item>
-            <item>Sloveno</item>
-            <item>Somalo</item>
-            <item>Spagnolo</item>
-            <item>Sundanese</item>
-            <item>Swahili</item>
-            <item>Svedese</item>
-            <item>Tagico</item>
-            <item>Tamil</item>
-            <item>Telugu</item>
-            <item>Tailandese</item>
-            <item>Turco</item>
-            <item>Ucraino</item>
-            <item>Urdu</item>
-            <item>Uzbeco</item>
-            <item>Vietnamese</item>
-            <item>Gallese</item>
-            <item>Xhosa</item>
-            <item>Yiddish</item>
-            <item>Yoruba</item>
-            <item>Zulu</item>
-            <item>Oriya</item>
-            <item>Pangiabi</item>
-            <item>Kinyarwanda</item>
-            <item>Tartara</item>
-            <item>turcomanno</item>
-            <item>Uiguro</item>
-    </string-array>
+	<string-array name="sort_titles">
+		<item>Ordina per nome (ascendente)</item>
+		<item>Ordina per nome (discendente)</item>
+		<item>Ordina per data (ascendente)</item>
+		<item>Ordina per data (discendente)</item>
+	</string-array>
+	<string-array name="themes_titles">
+		<item>Chiaro</item>
+		<item>Scuro</item>
+		<item>Nero</item>
+	</string-array>
+	<string-array name="shortcut_titles">
+		<item>Dialogo</item>
+		<item>Notifica</item>
+		<item>Toast</item>
+	</string-array>
+	<string-array name="item_options">
+		<item>Esegui</item>
+		<item>Applica a file/cartella</item>
+		<item>Modifica</item>
+		<item>Descrizione</item>
+		<item>Esporta</item>
+		<item>Preferiti</item>
+		<item>Elimina</item>
+		<item>Crea scorciatoia</item>
+		<item>Ripristina</item>
+	</string-array>
+	<string-array name="google_translator_names">
+		<item>Africano</item>
+		<item>Albanese</item>
+		<item>Amarico</item>
+		<item>Arabo</item>
+		<item>Armeno</item>
+		<item>Azerbaigiano</item>
+		<item>Basco</item>
+		<item>Bielorusso</item>
+		<item>Bengali</item>
+		<item>Bosniaco</item>
+		<item>Bulgaro</item>
+		<item>Catalano</item>
+		<item>Cebuano</item>
+		<item>Chichewa</item>
+		<item>Cinese semplificato</item>
+		<item>Cinese tradizionale</item>
+		<item>Corso</item>
+		<item>Croato</item>
+		<item>Ceco</item>
+		<item>Danese</item>
+		<item>Olandese</item>
+		<item>Ingelese</item>
+		<item>Esperanto</item>
+		<item>Estone</item>
+		<item>Filippino</item>
+		<item>Finlandese</item>
+		<item>Francese</item>
+		<item>Frisoni</item>
+		<item>Galiziano</item>
+		<item>Georgiano</item>
+		<item>Tedesco</item>
+		<item>Greco</item>
+		<item>Gugiarati</item>
+		<item>Creolo Haitiano</item>
+		<item>Hausa</item>
+		<item>Hawaiano</item>
+		<item>Ebreo</item>
+		<item>Hindi</item>
+		<item>Hmong</item>
+		<item>Ungherese</item>
+		<item>Islandese</item>
+		<item>Igbo</item>
+		<item>Indonesiano</item>
+		<item>Irlandese</item>
+		<item>Italiano</item>
+		<item>Giapponese</item>
+		<item>giavanese</item>
+		<item>Canarese</item>
+		<item>Kazako</item>
+		<item>Cambogiano</item>
+		<item>Coreano</item>
+		<item>Curdo (Kurmanji)</item>
+		<item>Kirghiso</item>
+		<item>Laotiano</item>
+		<item>Latino</item>
+		<item>Lettone</item>
+		<item>Lituano</item>
+		<item>Lussemburghese</item>
+		<item>Macedone</item>
+		<item>Malgascia</item>
+		<item>Malese</item>
+		<item>Malayalam</item>
+		<item>Maltese</item>
+		<item>Maori</item>
+		<item>Maratino</item>
+		<item>Mongolo</item>
+		<item>Birmano (Burmese)</item>
+		<item>Nepalese</item>
+		<item>Norvegese</item>
+		<item>Afgano</item>
+		<item>Persiano</item>
+		<item>Polacco</item>
+		<item>Portoghese</item>
+		<item>Pangiabi</item>
+		<item>Rumeno</item>
+		<item>Russo</item>
+		<item>Samoana</item>
+		<item>Gaelico Ccozzese</item>
+		<item>Serbo</item>
+		<item>Sesotho</item>
+		<item>Shona</item>
+		<item>Sindhi</item>
+		<item>Singalese</item>
+		<item>Slovacco</item>
+		<item>Sloveno</item>
+		<item>Somalo</item>
+		<item>Spagnolo</item>
+		<item>Sundanese</item>
+		<item>Swahili</item>
+		<item>Svedese</item>
+		<item>Tagico</item>
+		<item>Tamil</item>
+		<item>Telugu</item>
+		<item>Tailandese</item>
+		<item>Turco</item>
+		<item>Ucraino</item>
+		<item>Urdu</item>
+		<item>Uzbeco</item>
+		<item>Vietnamese</item>
+		<item>Gallese</item>
+		<item>Xhosa</item>
+		<item>Yiddish</item>
+		<item>Yoruba</item>
+		<item>Zulu</item>
+		<item>Oriya</item>
+		<item>Pangiabi</item>
+		<item>Kinyarwanda</item>
+		<item>Tartara</item>
+		<item>turcomanno</item>
+		<item>Uiguro</item>
+	</string-array>
+</resources>

@@ -150,4 +150,9 @@
 	<string name="backup_scr_summary">Backup of user scripts</string>
 	<string name="backup_scr_msg">The scripts will be exported to the \"MPatcher\" folder in the internal memory. Continue?</string>
 	<string name="include_build">Include built-in</string>
+	<string name="reset">Reset</string>
+	<string name="font_size">Font size</string>
+	<string name="rem_path">Remember the path</string>
+	<string name="rem_path_summary">Remember the last opened directory in filepicker</string>
+	<string name="to_archive">Save to archive</string>
 </resources>

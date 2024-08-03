@@ -147,4 +147,9 @@
 	<string name="backup_scr_summary">Бэкап пользовательских скриптов</string>
 	<string name="backup_scr_msg">Скрипты будут экспортированы в папку \"MPatcher\" во внутренней памяти. Продолжить?</string>
 	<string name="include_build">Включить встроенные</string>
+	<string name="reset">Сброс</string>
+	<string name="font_size">Размер шрифта</string>
+	<string name="rem_path">Запоминать путь</string>
+	<string name="rem_path_summary">Запоминать последний открытый каталог в файлпикере</string>
+	<string name="to_archive">Сохранить в архив</string>
 </resources>

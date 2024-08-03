@@ -31,7 +31,7 @@
 		<item>创建快捷方式</item>
 		<item>重置</item>
 	</string-array>
-    <string-array name="google_translator_names">
+	<string-array name="google_translator_names">
 		<item>南非荷兰语</item>
 		<item>阿尔巴尼亚语</item>
 		<item>阿姆哈拉语</item>
@@ -142,5 +142,5 @@
 		<item>鞑靼语</item>
 		<item>土库曼语</item>
 		<item>维吾尔族语</item>
-    </string-array>
+	</string-array>
 </resources>
