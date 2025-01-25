@@ -150,4 +150,10 @@
 	<string name="backup_scr_summary">备份用户脚本</string>
 	<string name="backup_scr_msg">脚本将被导出到内部存储器中的“MPatcher”文件夹中。继续吗？</string>
 	<string name="include_build">包含内置</string>
+
+	<string name="reset">重置</string>
+	<string name="font_size">字体大小</string>
+	<string name="rem_path">记住路径</string>
+	<string name="rem_path_summary">记住在文件选择器中最后打开的目录</string>
+	<string name="to_archive">保存到存档</string>
 </resources>
