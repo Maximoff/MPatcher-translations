@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<plurals name="imprt_multi">
+        <item quantity="zero">استيراد %d سكربت؟</item>
+        <item quantity="one">استيراد سكربت واحد؟</item>
+        <item quantity="two">استيراد سكربتين؟</item>
+        <item quantity="few">استيراد %d سكربتات؟</item>
+        <item quantity="many">استيراد %d سكربتاً؟</item>
+        <item quantity="other">استيراد %d سكربت؟</item>
+    </plurals>
+    <plurals name="delete_multi">
+        <item quantity="zero">حذف %d سكربت؟</item>
+        <item quantity="one">حذف سكربت واحد؟</item>
+        <item quantity="two">حذف سكربتين؟</item>
+        <item quantity="few">حذف %d سكربتات؟</item>
+        <item quantity="many">حذف %d سكربتاً؟</item>
+        <item quantity="other">حذف %d سكربت؟</item>
+    </plurals>
+</resources>
